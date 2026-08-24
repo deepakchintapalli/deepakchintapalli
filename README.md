@@ -1,6 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:2C4A9E,100:ED1D24&height=220&section=header&text=DEEPAK%20CHINTAPALLI&fontSize=42&fontColor=FFFFFF&fontAlign=50&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20APPLICATIONS&descAlign=50&descSize=16&animation=fadeIn" width="100%"/>
+<img src="<div align="center">
+
+<img src="./assets/spiderman-header.png" width="100%" alt="Deepak Chintapalli Header"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=Computer+Science+Engineering+Student;Software+%26+Full+Stack+Developer;AI-Powered+Application+Builder;Data+Structures+%26+Algorithms;Building+Practical+Technology+with+Code" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-ENGINEERING-052E16?style=for-the-badge&logo=academia&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-166534?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-APPLICATIONS-15803D?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/deepak-chintapalli-6212a333b/">
+<img src="https://img.shields.io/badge/LINKEDIN-DEEPAK%20CHINTAPALLI-0A7B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deepakchintapalli">
+<img src="https://img.shields.io/badge/GITHUB-DEEPAKCHINTAPALLI-020403?style=for-the-badge&logo=github&logoColor=22C55E"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=deepakchintapalli&label=PROFILE%20VIEWS&color=16A34A&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/deepakchintapalli?label=FOLLOWERS&style=flat-square&color=15803D"/>
+<img src="https://img.shields.io/github/stars/deepakchintapalli?affiliations=OWNER&label=STARS&style=flat-square&color=166534"/>
+
+</div>
+"/>
 
 <!-- diagonal spider-crawl banner — push assets/spider-crawl.svg to this repo first, then this line renders live -->
 <img src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/main/assets/spider-crawl.svg" width="100%"/>
@@ -47,7 +78,7 @@ My current stack spans **C / C++ / Java, JavaScript, TypeScript, React, Node.js,
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css&theme=dark" />
 
 **Frontend**
 
@@ -55,7 +86,7 @@ My current stack spans **C / C++ / Java, JavaScript, TypeScript, React, Node.js,
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
 
 **Tooling**
 
