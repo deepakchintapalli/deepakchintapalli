@@ -1,6 +1,5 @@
+````markdown
 <div align="center">
-
-<img src="<div align="center">
 
 <img src="./assets/spiderman-header.png" width="100%" alt="Deepak Chintapalli Header"/>
 
@@ -31,30 +30,10 @@
 <img src="https://img.shields.io/github/stars/deepakchintapalli?affiliations=OWNER&label=STARS&style=flat-square&color=166534"/>
 
 </div>
-"/>
-
-<!-- diagonal spider-crawl banner — push assets/spider-crawl.svg to this repo first, then this line renders live -->
-<img src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/main/assets/spider-crawl.svg" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=ED1D24&center=true&vCenter=true&width=820&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;AI+Application+Builder+%7C+Gemini+API;DSA+%7C+Algorithms+%7C+Problem+Solver" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ED1D24)](https://github.com/deepakchintapalli)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=2C4A9E)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ED1D24)](https://www.instagram.com/fw.deepak/)
-
-<img src="https://komarev.com/ghpvc/?username=deepakchintapalli&label=PROFILE%20VIEWS&color=ED1D24&style=flat-square&base=0"/>
-
-</div>
-
-<br/>
 
 ---
 
 ## About
-
-<img align="right" width="150" src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/main/assets/spider-crawl.svg" />
 
 I'm a **Computer Science Engineering student and software developer** building practical software across **full-stack development, data structures & algorithms, and AI-powered applications**.
 
@@ -245,11 +224,13 @@ A collection of browser-based utilities for practical image-processing tasks.
 ## Experience
 
 ### Software Engineering & AI Projects
+
 **Independent / Academic Projects** &nbsp;·&nbsp; `2025 — Present`
 
 Developing practical applications across full-stack development, algorithms, systems programming, and AI-powered software.
 
 **Scope of Work**
+
 - Build software projects using C, C++, JavaScript, and TypeScript
 - Develop frontend apps with React and Vite; backend services with Node.js and Express
 - Work with MongoDB for application data
@@ -284,11 +265,16 @@ Developing practical applications across full-stack development, algorithms, sys
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakchintapalli&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=ED1D24&icon_color=2C4A9E&text_color=FFFFFF&bg_color=0D1117"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&hide_border=true&langs_count=8&title_color=ED1D24&text_color=FFFFFF&bg_color=0D1117"/>
+
+<br>
 
 <img src="https://streak-stats.demolab.com?user=deepakchintapalli&theme=dark&hide_border=true&background=0D1117&ring=ED1D24&fire=ED1D24&currStreakLabel=ED1D24&sideLabels=6E8FDB&dates=6E8FDB"/>
 
 </div>
+
+---
 
 ## GitHub Trophies
 
@@ -298,21 +284,37 @@ Developing practical applications across full-stack development, algorithms, sys
 
 </div>
 
+---
+
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=6E8FDB&line=ED1D24&point=FFFFFF&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=6E8FDB&line=ED1D24&point=FFFFFF&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph" width="100%"/>
 
 </div>
+
+---
 
 ## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>For a red/black snake, generate <code>github-contribution-grid-snake-dark.svg</code> in your <code>snake.yml</code> action with a custom palette (e.g. <code>--palette-github-dark</code> or a custom snake theme with black background and <code>#ED1D24</code> body) and point this image at that output file.</sub>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -348,7 +350,7 @@ Open To:
   - Hackathons
   - Research
   - Open Source Collaboration
-```
+````
 
 ---
 
@@ -356,9 +358,9 @@ Open To:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=2C4A9E)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ED1D24)](https://github.com/deepakchintapalli)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ED1D24)](https://www.instagram.com/fw.deepak/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge\&logo=linkedin\&logoColor=2C4A9E)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=ED1D24)](https://github.com/deepakchintapalli)
 
 </div>
 
@@ -371,3 +373,4 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:2C4A9E,100:ED1D24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+```
