@@ -1,4 +1,4 @@
-````markdown
+[README.md](https://github.com/user-attachments/files/31383194/README.md)
 <div align="center">
 
 <img src="./assets/spiderman-header.png" width="100%" alt="Deepak Chintapalli Header"/>
@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/github/stars/deepakchintapalli?affiliations=OWNER&label=STARS&style=flat-square&color=166534"/>
 
 </div>
+
+---
 
 ---
 
@@ -224,13 +226,11 @@ A collection of browser-based utilities for practical image-processing tasks.
 ## Experience
 
 ### Software Engineering & AI Projects
-
 **Independent / Academic Projects** &nbsp;·&nbsp; `2025 — Present`
 
 Developing practical applications across full-stack development, algorithms, systems programming, and AI-powered software.
 
 **Scope of Work**
-
 - Build software projects using C, C++, JavaScript, and TypeScript
 - Develop frontend apps with React and Vite; backend services with Node.js and Express
 - Work with MongoDB for application data
@@ -265,16 +265,11 @@ Developing practical applications across full-stack development, algorithms, sys
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakchintapalli&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=ED1D24&icon_color=2C4A9E&text_color=FFFFFF&bg_color=0D1117"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&hide_border=true&langs_count=8&title_color=ED1D24&text_color=FFFFFF&bg_color=0D1117"/>
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=deepakchintapalli&theme=dark&hide_border=true&background=0D1117&ring=ED1D24&fire=ED1D24&currStreakLabel=ED1D24&sideLabels=6E8FDB&dates=6E8FDB"/>
 
 </div>
-
----
 
 ## GitHub Trophies
 
@@ -284,17 +279,13 @@ Developing practical applications across full-stack development, algorithms, sys
 
 </div>
 
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=6E8FDB&line=ED1D24&point=FFFFFF&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=6E8FDB&line=ED1D24&point=FFFFFF&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph"/>
 
 </div>
-
----
 
 ## Contribution Snake
 
@@ -350,7 +341,7 @@ Open To:
   - Hackathons
   - Research
   - Open Source Collaboration
-````
+```
 
 ---
 
@@ -358,9 +349,8 @@ Open To:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge\&logo=linkedin\&logoColor=2C4A9E)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=ED1D24)](https://github.com/deepakchintapalli)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=2C4A9E)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ED1D24)](https://github.com/deepakchintapalli)
 
 </div>
 
@@ -373,4 +363,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:2C4A9E,100:ED1D24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-```
