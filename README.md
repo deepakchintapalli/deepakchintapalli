@@ -165,37 +165,6 @@ A collection of browser-based utilities for practical image processing and devel
 
 🔗 **[View Repository](https://github.com/deepakchintapalli/tools)**
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepakchintapalli&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF&bg_color=0D1117" height="170"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&langs_count=8&hide_border=true&title_color=22C55E&text_color=FFFFFF&bg_color=0D1117" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchintapalli&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepakchintapalli&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
