@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31383194/README.md)
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/main/assets/spiderman.jpg" width="100%" alt="Deepak Chintapalli Header"/>
