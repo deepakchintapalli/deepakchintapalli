@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D3B24,100:39FF14&height=220&section=header&text=DEEPAK%20CHINTAPALLI&fontSize=42&fontColor=39FF14&fontAlign=50&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20APPLICATIONS&descAlign=50&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:2C4A9E,100:ED1D24&height=220&section=header&text=DEEPAK%20CHINTAPALLI&fontSize=42&fontColor=FFFFFF&fontAlign=50&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20APPLICATIONS&descAlign=50&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- diagonal spider-crawl banner — push assets/spider-crawl.svg to this repo first, then this line renders live -->
 <img src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/main/assets/spider-crawl.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=820&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;AI+Application+Builder+%7C+Gemini+API;DSA+%7C+Algorithms+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=ED1D24&center=true&vCenter=true&width=820&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;AI+Application+Builder+%7C+Gemini+API;DSA+%7C+Algorithms+%7C+Problem+Solver" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/deepakchintapalli)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/fw.deepak/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ED1D24)](https://github.com/deepakchintapalli)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=2C4A9E)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ED1D24)](https://www.instagram.com/fw.deepak/)
 
-<img src="https://komarev.com/ghpvc/?username=deepakchintapalli&label=PROFILE%20VIEWS&color=39FF14&style=flat-square&base=0"/>
+<img src="https://komarev.com/ghpvc/?username=deepakchintapalli&label=PROFILE%20VIEWS&color=ED1D24&style=flat-square&base=0"/>
 
 </div>
 
@@ -252,10 +252,10 @@ Developing practical applications across full-stack development, algorithms, sys
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakchintapalli&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=39FF14&icon_color=39FF14&text_color=B6FFB0&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&hide_border=true&langs_count=8&title_color=39FF14&text_color=B6FFB0&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakchintapalli&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=ED1D24&icon_color=2C4A9E&text_color=FFFFFF&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&hide_border=true&langs_count=8&title_color=ED1D24&text_color=FFFFFF&bg_color=0D1117"/>
 
-<img src="https://streak-stats.demolab.com?user=deepakchintapalli&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=86EFAC&dates=6474 8B"/>
+<img src="https://streak-stats.demolab.com?user=deepakchintapalli&theme=dark&hide_border=true&background=0D1117&ring=ED1D24&fire=ED1D24&currStreakLabel=ED1D24&sideLabels=6E8FDB&dates=6E8FDB"/>
 
 </div>
 
@@ -263,7 +263,7 @@ Developing practical applications across full-stack development, algorithms, sys
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakchintapalli&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepakchintapalli&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
@@ -271,7 +271,7 @@ Developing practical applications across full-stack development, algorithms, sys
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=86EFAC&line=39FF14&point=BBF7D0&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=6E8FDB&line=ED1D24&point=FFFFFF&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph"/>
 
 </div>
 
@@ -281,7 +281,7 @@ Developing practical applications across full-stack development, algorithms, sys
 
 <img src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>To get a green/black snake, set your <code>snake.yml</code> action output to <code>github-contribution-grid-snake-dark.svg</code> and it will follow this theme automatically.</sub>
+<sub>For a red/black snake, generate <code>github-contribution-grid-snake-dark.svg</code> in your <code>snake.yml</code> action with a custom palette (e.g. <code>--palette-github-dark</code> or a custom snake theme with black background and <code>#ED1D24</code> body) and point this image at that output file.</sub>
 
 </div>
 
@@ -325,9 +325,9 @@ Open To:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/deepakchintapalli)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/fw.deepak/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=2C4A9E)](https://www.linkedin.com/in/deepak-chintapalli-6212a333b/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ED1D24)](https://github.com/deepakchintapalli)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ED1D24)](https://www.instagram.com/fw.deepak/)
 
 </div>
 
@@ -337,6 +337,6 @@ Open To:
 
 **"Build with purpose. Learn continuously. Ship things that matter."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D3B24,100:39FF14&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:2C4A9E,100:ED1D24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
