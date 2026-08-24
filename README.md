@@ -171,9 +171,9 @@ A collection of browser-based utilities for practical image processing and devel
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakchintapalli&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF&bg_color=0D1117" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepakchintapalli&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF&bg_color=0D1117" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&hide_border=true&langs_count=8&title_color=22C55E&text_color=FFFFFF&bg_color=0D1117" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&langs_count=8&hide_border=true&title_color=22C55E&text_color=FFFFFF&bg_color=0D1117" height="170"/>
 
 </div>
 
@@ -181,7 +181,7 @@ A collection of browser-based utilities for practical image processing and devel
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=deepakchintapalli&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=FFFFFF&dates=AAAAAA" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchintapalli&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 
 </div>
 
@@ -191,17 +191,7 @@ A collection of browser-based utilities for practical image processing and devel
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakchintapalli&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepakchintapalli&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
