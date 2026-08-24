@@ -1,13 +1,10 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4c1d95,100:1e1b4b&height=220&section=header&text=DEEPAK%20CH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Building+Scalable+Products+with+Intelligent+Systems;Engineering+with+Performance%2C+Security+%26+Impact;Turning+Complex+Problems+into+Production-Ready+Solutions" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Building+Scalable+Products+with+Intelligent+Systems;Engineering+with+Performance%2C+Security+%26+Impact;Turning+Complex+Problems+into+Production-Ready+Solutions" alt="Typing SVG"/>
 
 <br><br>
 
@@ -21,12 +18,15 @@
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/yourusername/">
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/yourusername">
 <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -51,12 +51,12 @@ I enjoy working across the complete development lifecycle — from architecture 
 
 ### Engineering Focus
 
-- **Software Engineering** — Data Structures, Algorithms, OOP, System Design and scalable architectures
-- **AI / ML** — Machine Learning, Deep Learning, Computer Vision and intelligent automation
-- **Full Stack Development** — Modern frontend systems, REST APIs, backend services and databases
-- **Product Engineering** — Building useful products with measurable performance, reliability and user impact
-- **Cloud & DevOps** — Deployment, CI/CD, containers, infrastructure and production tooling
-- **Open Source** — Exploring opportunities to contribute to meaningful engineering projects
+* **Software Engineering** — Data Structures, Algorithms, OOP, System Design and scalable architectures
+* **AI / ML** — Machine Learning, Deep Learning, Computer Vision and intelligent automation
+* **Full Stack Development** — Modern frontend systems, REST APIs, backend services and databases
+* **Product Engineering** — Building useful products with measurable performance, reliability and user impact
+* **Cloud & DevOps** — Deployment, CI/CD, containers, infrastructure and production tooling
+* **Open Source** — Exploring opportunities to contribute to meaningful engineering projects
 
 ### Open To
 
@@ -69,41 +69,41 @@ I enjoy working across the complete development lifecycle — from architecture 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,bash,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,bash,sql&theme=dark"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,postgresql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,postgresql,redis&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,linux,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,linux,postman,vscode&theme=dark"/>
 </p>
 
 ---
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | Advanced | Supervised learning, regression, classification, clustering and model evaluation |
-| Deep Learning | Intermediate | Neural networks, CNN architectures and model optimization |
-| Computer Vision | Intermediate | Image processing, object detection and visual intelligence |
-| NLP | Intermediate | Text processing, embeddings and intelligent information extraction |
-| Generative AI | Intermediate | LLM applications, prompt engineering and AI-powered workflows |
-| Data Science | Advanced | Data preprocessing, feature engineering, visualization and statistical analysis |
-| Model Deployment | Intermediate | API-based inference, containerization and production integration |
-| MLOps | Developing | Experiment tracking, reproducibility, CI/CD and scalable model workflows |
+| Domain           |  Proficiency | Details                                                                          |
+| ---------------- | :----------: | -------------------------------------------------------------------------------- |
+| Machine Learning |   Advanced   | Supervised learning, regression, classification, clustering and model evaluation |
+| Deep Learning    | Intermediate | Neural networks, CNN architectures and model optimization                        |
+| Computer Vision  | Intermediate | Image processing, object detection and visual intelligence                       |
+| NLP              | Intermediate | Text processing, embeddings and intelligent information extraction               |
+| Generative AI    | Intermediate | LLM applications, prompt engineering and AI-powered workflows                    |
+| Data Science     |   Advanced   | Data preprocessing, feature engineering, visualization and statistical analysis  |
+| Model Deployment | Intermediate | API-based inference, containerization and production integration                 |
+| MLOps            |  Developing  | Experiment tracking, reproducibility, CI/CD and scalable model workflows         |
 
 ---
 
@@ -116,22 +116,22 @@ I enjoy working across the complete development lifecycle — from architecture 
 
 An intelligent autonomous RC vehicle combining **embedded systems, computer vision, machine learning and real-time decision making** to enable autonomous navigation.
 
-| Metric | Engineering Detail |
-|---|---|
-| **Stack** | Python · C/C++ · Computer Vision · ML · Embedded Systems |
-| **Scale** | Real-time edge-computing prototype |
-| **Performance** | Optimized inference pipeline for responsive autonomous decisions |
-| **Security** | Controlled command interface and isolated vehicle control |
-| **Impact** | Demonstrates practical integration of AI with computer architecture and embedded engineering |
-| **Repository** | [View Repository](https://github.com/yourusername/autonomous-rc-car) |
+| Metric          | Engineering Detail                                                                           |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| **Stack**       | Python · C/C++ · Computer Vision · Machine Learning · Embedded Systems                       |
+| **Scale**       | Real-time edge-computing prototype                                                           |
+| **Performance** | Optimized inference pipeline for responsive autonomous decisions                             |
+| **Security**    | Controlled command interface and isolated vehicle control                                    |
+| **Impact**      | Demonstrates practical integration of AI with computer architecture and embedded engineering |
+| **Repository**  | [View Repository](https://github.com/yourusername/autonomous-rc-car)                         |
 
 **Engineering Scope**
 
-- Designed an autonomous control architecture connecting perception, decision-making and actuation.
-- Integrated computer vision for environmental understanding.
-- Applied ML concepts to autonomous navigation and decision systems.
-- Explored hardware/software interaction at the computer architecture level.
-- Optimized the pipeline for real-time execution under hardware constraints.
+* Designed an autonomous control architecture connecting perception, decision-making and actuation.
+* Integrated computer vision for environmental understanding.
+* Applied ML concepts to autonomous navigation and decision systems.
+* Explored hardware/software interaction at the computer architecture level.
+* Optimized the pipeline for real-time execution under hardware constraints.
 
 </details>
 
@@ -142,22 +142,22 @@ An intelligent autonomous RC vehicle combining **embedded systems, computer visi
 
 A production-oriented full-stack platform integrating an intelligent backend with a modern web interface and data-driven workflows.
 
-| Metric | Engineering Detail |
-|---|---|
-| **Stack** | React · Node.js · Python · REST API · PostgreSQL |
-| **Scale** | Modular full-stack architecture |
-| **Performance** | API optimization, caching and efficient database queries |
-| **Security** | Authentication, authorization and validated API boundaries |
-| **Impact** | Demonstrates end-to-end product engineering and AI integration |
-| **Repository** | [View Repository](https://github.com/yourusername/ai-fullstack-platform) |
+| Metric          | Engineering Detail                                                       |
+| --------------- | ------------------------------------------------------------------------ |
+| **Stack**       | React · Node.js · Python · REST API · PostgreSQL                         |
+| **Scale**       | Modular full-stack architecture                                          |
+| **Performance** | API optimization, caching and efficient database queries                 |
+| **Security**    | Authentication, authorization and validated API boundaries               |
+| **Impact**      | Demonstrates end-to-end product engineering and AI integration           |
+| **Repository**  | [View Repository](https://github.com/yourusername/ai-fullstack-platform) |
 
 **Engineering Scope**
 
-- Designed reusable frontend and backend modules.
-- Built RESTful APIs for application services.
-- Integrated AI-powered functionality into product workflows.
-- Implemented structured data persistence and validation.
-- Focused on maintainability, scalability and developer experience.
+* Designed reusable frontend and backend modules.
+* Built RESTful APIs for application services.
+* Integrated AI-powered functionality into product workflows.
+* Implemented structured data persistence and validation.
+* Focused on maintainability, scalability and developer experience.
 
 </details>
 
@@ -168,22 +168,22 @@ A production-oriented full-stack platform integrating an intelligent backend wit
 
 A modular ML workflow for transforming raw datasets into evaluated and deployable predictive models.
 
-| Metric | Engineering Detail |
-|---|---|
-| **Stack** | Python · NumPy · Pandas · Scikit-learn · Matplotlib |
-| **Scale** | Reusable experimentation pipeline |
-| **Performance** | Efficient preprocessing and model evaluation workflows |
-| **Security** | Input validation and controlled data processing |
-| **Impact** | Establishes a repeatable foundation for ML experimentation |
-| **Repository** | [View Repository](https://github.com/yourusername/ml-engineering-platform) |
+| Metric          | Engineering Detail                                                         |
+| --------------- | -------------------------------------------------------------------------- |
+| **Stack**       | Python · NumPy · Pandas · Scikit-learn · Matplotlib                        |
+| **Scale**       | Reusable experimentation pipeline                                          |
+| **Performance** | Efficient preprocessing and model evaluation workflows                     |
+| **Security**    | Input validation and controlled data processing                            |
+| **Impact**      | Establishes a repeatable foundation for ML experimentation                 |
+| **Repository**  | [View Repository](https://github.com/yourusername/ml-engineering-platform) |
 
 **Engineering Scope**
 
-- Implemented data preprocessing and feature engineering workflows.
-- Built reusable model training and evaluation pipelines.
-- Compared model performance using appropriate metrics.
-- Applied software engineering practices to machine learning workflows.
-- Structured experiments for reproducibility and maintainability.
+* Implemented data preprocessing and feature engineering workflows.
+* Built reusable model training and evaluation pipelines.
+* Compared model performance using appropriate metrics.
+* Applied software engineering practices to machine learning workflows.
+* Structured experiments for reproducibility and maintainability.
 
 </details>
 
@@ -194,22 +194,22 @@ A modular ML workflow for transforming raw datasets into evaluated and deployabl
 
 A modular security-oriented toolkit focused on information gathering, automation and structured analysis.
 
-| Metric | Engineering Detail |
-|---|---|
-| **Stack** | Python · Linux · APIs · Automation |
-| **Scale** | Modular command-line architecture |
-| **Performance** | Automated repetitive workflows and structured output |
-| **Security** | Defensive security and authorized testing workflows |
-| **Impact** | Improves repeatability of security research and analysis |
-| **Repository** | [View Repository](https://github.com/yourusername/security-toolkit) |
+| Metric          | Engineering Detail                                                  |
+| --------------- | ------------------------------------------------------------------- |
+| **Stack**       | Python · Linux · APIs · Automation                                  |
+| **Scale**       | Modular command-line architecture                                   |
+| **Performance** | Automated repetitive workflows and structured output                |
+| **Security**    | Defensive security and authorized testing workflows                 |
+| **Impact**      | Improves repeatability of security research and analysis            |
+| **Repository**  | [View Repository](https://github.com/yourusername/security-toolkit) |
 
 **Engineering Scope**
 
-- Developed modular automation utilities.
-- Structured security-related information into actionable outputs.
-- Applied Python scripting for repeatable workflows.
-- Focused on responsible and authorized security research.
-- Designed components for extensibility and maintainability.
+* Developed modular automation utilities.
+* Structured security-related information into actionable outputs.
+* Applied Python scripting for repeatable workflows.
+* Focused on responsible and authorized security research.
+* Designed components for extensibility and maintainability.
 
 </details>
 
@@ -219,19 +219,19 @@ A modular security-oriented toolkit focused on information gathering, automation
 
 ### Software Engineering / AI Engineering
 
-**Independent Engineering Projects**  
+**Independent Engineering Projects**
 `2025 — Present`
 
 Building software and AI-focused projects across full-stack development, machine learning, computer vision and systems engineering.
 
 **Scope of Work**
 
-- Design and implement software systems using modern engineering practices.
-- Develop machine learning workflows from data preparation through evaluation.
-- Build full-stack applications with modular frontend and backend architectures.
-- Experiment with computer vision and intelligent automation.
-- Work with Git-based development, APIs, databases and cloud tooling.
-- Apply algorithmic and systems knowledge to practical engineering problems.
+* Design and implement software systems using modern engineering practices.
+* Develop machine learning workflows from data preparation through evaluation.
+* Build full-stack applications with modular frontend and backend architectures.
+* Experiment with computer vision and intelligent automation.
+* Work with Git-based development, APIs, databases and cloud tooling.
+* Apply algorithmic and systems knowledge to practical engineering problems.
 
 **Skills**
 
@@ -243,13 +243,13 @@ Building software and AI-focused projects across full-stack development, machine
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Academic Excellence** | Strong focus on Computer Science, Software Engineering and AI/ML fundamentals |
-| **Research & Engineering** | Built practical projects combining software, AI and computer systems |
-| **Technical Development** | Continuous development across full-stack, ML, cloud and systems engineering |
-| **Project Leadership** | Experience taking technical projects from concept toward implementation |
-| **Open Source Mindset** | Actively exploring meaningful open-source engineering contributions |
+| Recognition                | Details                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| **Academic Excellence**    | Strong focus on Computer Science, Software Engineering and AI/ML fundamentals |
+| **Research & Engineering** | Built practical projects combining software, AI and computer systems          |
+| **Technical Development**  | Continuous development across full-stack, ML, cloud and systems engineering   |
+| **Project Leadership**     | Experience taking technical projects from concept toward implementation       |
+| **Open Source Mindset**    | Actively exploring meaningful open-source engineering contributions           |
 
 </div>
 
@@ -309,7 +309,7 @@ Building software and AI-focused projects across full-stack development, machine
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" />
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8"/>
 
 </div>
 
@@ -376,7 +376,7 @@ Open To:
   - Research Opportunities
   - Open Source Collaboration
   - Product Engineering
-````
+```
 
 ---
 
@@ -413,4 +413,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:312E81&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-```
