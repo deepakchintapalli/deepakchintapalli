@@ -1,26 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,50:064E3B,100:16A34A&height=220&section=header&text=DEEPAK%20CHINTAPALLI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Full%20Stack%20Development&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,45:052E16,75:166534,100:22C55E&height=230&section=header&text=DEEPAK%20CHINTAPALLI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20FULL%20STACK&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Software+%26+Full+Stack+Developer;AI-Powered+Application+Builder;DSA+%7C+Web+Development+%7C+Systems;Building+Practical+Technology+with+Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=Computer+Science+Engineering+Student;Software+%26+Full+Stack+Developer;AI-Powered+Application+Builder;Data+Structures+%26+Algorithms;Building+Practical+Technology+with+Code" alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CSE-Student-166534?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software-Engineering-15803D?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Powered%20Apps-16A34A?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-Andhra%20Pradesh-052E16?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-ENGINEERING-052E16?style=for-the-badge&logo=academia&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-166534?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-APPLICATIONS-15803D?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/deepak-chintapalli-6212a333b/">
-<img src="https://img.shields.io/badge/LinkedIn-Deepak%20Chintapalli-0A7B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-DEEPAK%20CHINTAPALLI-0A7B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/deepakchintapalli">
-<img src="https://img.shields.io/badge/GitHub-deepakchintapalli-052E16?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-DEEPAKCHINTAPALLI-020403?style=for-the-badge&logo=github&logoColor=22C55E"/>
 </a>
 
 <br><br>
@@ -35,20 +34,22 @@
 
 ## About
 
-I am a **Computer Science Engineering student and software developer** focused on building practical applications across **software engineering, full-stack development, data structures, algorithms and AI-powered systems**.
+I am a **Computer Science Engineering student and software developer** focused on building practical software across **full-stack development, data structures, algorithms and AI-powered applications**.
 
-My projects span from C/C++ systems and DSA implementations to modern web applications using **React, TypeScript, JavaScript, Node.js, Express and MongoDB**.
+I enjoy turning ideas into working products by combining programming fundamentals with modern development tools and frameworks.
 
-I enjoy taking an idea from **problem definition → architecture → implementation → testing → usable product**, with a strong interest in intelligent applications and systems that solve real problems.
+My current work spans **C/C++, JavaScript, TypeScript, React, Node.js, Express, MongoDB and AI APIs**, with a strong interest in building useful applications rather than isolated demonstrations.
+
+I approach projects from problem definition through implementation, testing and refinement, with an emphasis on **clean architecture, practical functionality and continuous learning**.
 
 ### Engineering Focus
 
-* **Software Engineering** — Data Structures, Algorithms, C/C++, modular programming and problem solving
-* **Full Stack Development** — React, TypeScript, JavaScript, Node.js, Express and MongoDB
-* **AI Applications** — AI-assisted products, Gemini API integration and intelligent application workflows
-* **Systems Development** — File handling, authentication, role-based access and structured data management
-* **Algorithms** — Graph algorithms, Dijkstra's shortest path, hash tables, queues and linked lists
-* **Product Engineering** — Building practical applications with clean interfaces and useful functionality
+* **Software Engineering** — Data Structures, Algorithms, OOP and modular application development
+* **Full Stack Development** — React, Vite, JavaScript, TypeScript, Node.js, Express and MongoDB
+* **AI Applications** — Generative AI APIs and AI-assisted application workflows
+* **Systems Programming** — C/C++, file handling, structures and algorithmic implementations
+* **Problem Solving** — Graph algorithms, linked lists, hash tables, queues and shortest-path algorithms
+* **Product Engineering** — Building practical applications around real user problems
 
 ### Open To
 
@@ -76,7 +77,7 @@ I enjoy taking an idea from **problem definition → architecture → implementa
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 </p>
 
-### Tools & Development
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm&theme=dark"/>
@@ -86,14 +87,14 @@ I enjoy taking an idea from **problem definition → architecture → implementa
 
 ## AI / ML Expertise
 
-| Domain                      |    Focus   | Details                                                                       |
-| --------------------------- | :--------: | ----------------------------------------------------------------------------- |
-| AI-Powered Applications     |   Active   | Building applications that integrate AI capabilities into practical workflows |
-| Generative AI               |   Active   | Working with Gemini-powered application features and AI-assisted experiences  |
-| Intelligent Interfaces      |   Active   | Exploring AI-driven interaction, recommendations and information retrieval    |
-| Data Structures             |   Strong   | Hash tables, linked lists, circular queues and graph-based algorithms         |
-| Algorithmic Problem Solving |   Strong   | Dijkstra's shortest-path algorithm and structured problem solving             |
-| Full Stack AI Integration   | Developing | Connecting AI services with modern frontend and backend applications          |
+| Domain                     | Proficiency | Details                                                              |
+| -------------------------- | :---------: | -------------------------------------------------------------------- |
+| Generative AI              |   Building  | Integrating AI APIs into practical software applications             |
+| AI Application Development |   Building  | Designing user-facing applications around intelligent workflows      |
+| AI APIs                    |   Building  | Working with Gemini-powered application functionality                |
+| Data Structures            |    Strong   | Hash tables, linked lists, circular queues and graph structures      |
+| Algorithms                 |    Strong   | Dijkstra's shortest-path algorithm and algorithmic problem solving   |
+| Full Stack AI Integration  |  Developing | Connecting AI services with modern frontend and backend applications |
 
 ---
 
@@ -104,35 +105,37 @@ I enjoy taking an idea from **problem definition → architecture → implementa
 
 ### Orbit — AI Travel Companion
 
-An AI-powered travel companion designed around global destination research, budget planning, travel information and intelligent trip assistance.
+An AI-powered travel companion built to provide destination research, budget analysis, travel information and intelligent trip assistance.
 
-| Metric          | Engineering Detail                                                                  |
-| --------------- | ----------------------------------------------------------------------------------- |
-| **Stack**       | TypeScript · React · Vite · Node.js · Gemini API                                    |
-| **Scale**       | Global destination-oriented web application                                         |
-| **Performance** | High-performance interface with AI-powered location scanning                        |
-| **Security**    | API key separated through environment configuration                                 |
-| **Impact**      | Combines AI research, travel planning, cost estimation and multilingual interaction |
-| **Repository**  | [View Repository](https://github.com/deepakchintapalli/Hackathon)                   |
+| Metric          | Engineering Detail                                                                 |
+| --------------- | ---------------------------------------------------------------------------------- |
+| **Stack**       | TypeScript · React · Vite · Gemini API                                             |
+| **Scale**       | Global destination-oriented web application                                        |
+| **Performance** | Client-side React application with AI-assisted workflows                           |
+| **Security**    | API configuration through environment variables                                    |
+| **Impact**      | Combines AI research, travel planning, cost estimation and multilingual assistance |
+| **Repository**  | [View Repository](https://github.com/deepakchintapalli/Hackathon)                  |
 
 **Engineering Scope**
 
-* Built a modern React/TypeScript application architecture.
-* Integrated Google's Gemini API through `@google/genai`.
-* Implemented AI-assisted destination research.
-* Added budget-aware travel analysis in INR.
-* Added local-law, emergency-information and food-recommendation workflows.
+* Built a React + TypeScript application using Vite.
+* Integrated the Google Gemini API through `@google/genai`.
+* Implemented destination scanning and AI-generated travel information.
+* Added daily cost estimation in INR.
+* Added local laws, customs and emergency information.
+* Added local food recommendations.
 * Implemented multilingual translation functionality.
-* Added travel-mode cost calculations and location-aware functionality.
+* Added travel-mode cost calculations.
+* Designed an interactive travel-focused interface.
 
 </details>
 
 <details>
-<summary><strong>SpeakEase — Language Learning Platform</strong></summary>
+<summary><strong>SpeakEase — AI-Powered Language Learning Platform</strong></summary>
 
 ### SpeakEase — AI-Powered Language Learning Platform
 
-A full-stack language learning platform combining structured lessons, quizzes, progress tracking, gamification and authentication.
+A full-stack language learning platform focused on interactive lessons, quizzes, progress tracking and gamification.
 
 | Metric          | Engineering Detail                                                |
 | --------------- | ----------------------------------------------------------------- |
@@ -147,11 +150,13 @@ A full-stack language learning platform combining structured lessons, quizzes, p
 
 * Developed a React + Vite frontend.
 * Built Node.js and Express backend services.
-* Integrated MongoDB through Mongoose.
+* Integrated MongoDB using Mongoose.
 * Implemented JWT-based authentication.
-* Added structured language lessons and interactive quizzes.
-* Implemented XP, streaks, completion tracking and leaderboards.
-* Designed responsive interfaces for desktop and mobile experiences.
+* Added multi-language learning functionality.
+* Built structured lessons and interactive quizzes.
+* Implemented XP, streaks and completion tracking.
+* Added leaderboard functionality.
+* Designed responsive desktop and mobile interfaces.
 
 </details>
 
@@ -160,26 +165,26 @@ A full-stack language learning platform combining structured lessons, quizzes, p
 
 ### Smart Campus Navigation & Student Management System
 
-A multi-module system combining **campus route optimization, student management and authentication**.
+A multi-module academic project combining campus route optimization, student management and a frontend login/signup interface.
 
 | Metric          | Engineering Detail                                                                                        |
 | --------------- | --------------------------------------------------------------------------------------------------------- |
-| **Stack**       | HTML · CSS · JavaScript · Node.js · Express · C++                                                         |
+| **Stack**       | C++ · HTML · CSS · JavaScript                                                                             |
 | **Scale**       | Multi-module academic software project                                                                    |
 | **Performance** | Graph-based shortest-path computation                                                                     |
-| **Security**    | Login and signup functionality                                                                            |
-| **Impact**      | Integrates algorithms, backend services and student management into one system                            |
+| **Security**    | Login and signup interface                                                                                |
+| **Impact**      | Combines algorithms, student management and web development                                               |
 | **Repository**  | [View Repository](https://github.com/deepakchintapalli/Smart-Campus-Navigation-Student-Management-System) |
 
 **Engineering Scope**
 
 * Implemented campus route optimization using Dijkstra's algorithm.
-* Used graph-based data representation for route calculation.
-* Built a web interface for selecting source and destination.
-* Developed C++ student-management functionality.
-* Added student creation, update, deletion and search operations.
-* Integrated Node.js and Express backend functionality.
-* Connected algorithmic logic with application-level functionality.
+* Represented campus routes using graph structures.
+* Developed source and destination based route selection.
+* Built a C++ student management component.
+* Added student management operations.
+* Developed frontend login and signup interfaces.
+* Combined algorithmic problem solving with application development.
 
 </details>
 
@@ -188,26 +193,28 @@ A multi-module system combining **campus route optimization, student management 
 
 ### Student Record Management System
 
-A C-based student management system using **file handling, structures, modular programming and role-based access control**.
+A C-based student management system demonstrating file handling, structures, modular programming and role-based access control.
 
 | Metric          | Engineering Detail                                                                        |
 | --------------- | ----------------------------------------------------------------------------------------- |
-| **Stack**       | C · File Handling · Structures · Modular Programming                                      |
-| **Scale**       | Command-line academic management system                                                   |
+| **Stack**       | C · Structures · File Handling · Modular Programming                                      |
+| **Scale**       | Command-line management system                                                            |
 | **Performance** | Lightweight local file-based processing                                                   |
-| **Security**    | Role-based login with ADMIN and STUDENT access                                            |
-| **Impact**      | Demonstrates systems fundamentals and structured C programming                            |
+| **Security**    | Role-based ADMIN and STUDENT access                                                       |
+| **Impact**      | Demonstrates core C programming and systems fundamentals                                  |
 | **Repository**  | [View Repository](https://github.com/deepakchintapalli/student_record-management-system-) |
 
 **Engineering Scope**
 
-* Implemented student authentication using roll numbers.
+* Implemented student authentication.
 * Added ADMIN and STUDENT roles.
-* Added account lockout after three failed login attempts.
-* Implemented profile, attendance, marks and fee modules.
-* Added timetable generation based on weekday and department.
-* Implemented administrator operations for adding, updating and deleting records.
-* Used external text files for persistent data storage.
+* Implemented account lockout after failed login attempts.
+* Added student profile management.
+* Added attendance and marks modules.
+* Added fee management functionality.
+* Added timetable functionality.
+* Implemented administrator operations for records.
+* Used files for persistent data storage.
 
 </details>
 
@@ -216,24 +223,25 @@ A C-based student management system using **file handling, structures, modular p
 
 ### Music Playlist Auto-Shuffle Simulator
 
-A C-based DSA project that simulates intelligent music shuffling using a **hash table, linked lists and circular queue**.
+A C-based data structures project simulating playlist management using hash tables, linked lists and circular queues.
 
 | Metric          | Engineering Detail                                                                            |
 | --------------- | --------------------------------------------------------------------------------------------- |
 | **Stack**       | C · Hash Table · Linked List · Circular Queue                                                 |
-| **Scale**       | Menu-driven DSA simulation                                                                    |
-| **Performance** | Efficient genre-based storage and constrained shuffle history                                 |
-| **Security**    | Local standalone application                                                                  |
-| **Impact**      | Demonstrates practical application of classic data structures                                 |
+| **Scale**       | Menu-driven DSA application                                                                   |
+| **Performance** | Efficient genre-based song organization and shuffle history                                   |
+| **Security**    | Standalone local application                                                                  |
+| **Impact**      | Demonstrates practical use of classic data structures                                         |
 | **Repository**  | [View Repository](https://github.com/deepakchintapalli/Music-Playlist-Auto-Shuffle-Simulator) |
 
 **Engineering Scope**
 
-* Implemented hash-table storage using separate chaining.
-* Used linked lists for bucket-level song management.
+* Implemented hash-table based song storage.
+* Used separate chaining with linked lists.
 * Implemented a circular queue for recent-play history.
-* Designed shuffle logic to avoid recently played songs.
-* Prevented the same genre from being selected consecutively.
+* Designed shuffle logic around recent-song constraints.
+* Added genre-based organization.
+* Prevented immediate repetition of recently played songs.
 * Built a menu-driven command-line interface.
 
 </details>
@@ -243,24 +251,24 @@ A C-based DSA project that simulates intelligent music shuffling using a **hash 
 
 ### Developer Tools Collection
 
-A collection of browser-based utility tools including image compression, image conversion and image resizing utilities.
+A collection of browser-based utilities focused on practical image-processing tasks.
 
 | Metric          | Engineering Detail                                            |
 | --------------- | ------------------------------------------------------------- |
 | **Stack**       | HTML · JavaScript · Browser APIs                              |
 | **Scale**       | Lightweight client-side utility collection                    |
-| **Performance** | Browser-based processing without requiring a backend          |
-| **Security**    | Client-side processing architecture                           |
-| **Impact**      | Practical collection of reusable web utilities                |
+| **Performance** | Browser-based processing                                      |
+| **Security**    | Client-side processing model                                  |
+| **Impact**      | Provides practical utilities through a simple web interface   |
 | **Repository**  | [View Repository](https://github.com/deepakchintapalli/tools) |
 
 **Engineering Scope**
 
 * Built browser-based utility interfaces.
 * Implemented image compression functionality.
-* Added image conversion utilities.
+* Added image conversion functionality.
 * Added image resizing functionality.
-* Organized multiple utilities within a single repository.
+* Organized multiple utilities into one project.
 
 </details>
 
@@ -268,26 +276,27 @@ A collection of browser-based utility tools including image compression, image c
 
 ## Experience
 
-### Computer Science Engineering Student
+### Software Engineering & AI Projects
 
-**SRM University-AP**
-`2024 — Present`
+**Independent / Academic Projects**
+`2025 — Present`
 
-Developing software projects across **data structures, algorithms, full-stack development, AI-powered applications and systems programming** while continuously expanding practical engineering skills.
+Developing practical applications across **full-stack development, algorithms, systems programming and AI-powered software**.
 
 **Scope of Work**
 
-* Develop academic and personal software projects.
-* Apply DSA concepts to practical applications.
-* Build frontend and backend web applications.
-* Explore AI integration into software products.
-* Participate in hackathons and technical activities.
-* Collaborate on team-based engineering projects.
-* Continuously improve software development and problem-solving skills.
+* Build software projects using C, C++, JavaScript and TypeScript.
+* Develop frontend applications using React and Vite.
+* Build backend services using Node.js and Express.
+* Work with MongoDB for application data.
+* Integrate AI APIs into practical applications.
+* Apply DSA concepts to real-world project problems.
+* Develop academic systems involving authentication, file handling and data management.
+* Collaborate on hackathon-oriented projects.
 
 **Skills**
 
-`C` `C++` `JavaScript` `TypeScript` `React` `Node.js` `Express` `MongoDB` `DSA` `Git` `GitHub`
+`C` `C++` `Java` `JavaScript` `TypeScript` `React` `Vite` `Node.js` `Express` `MongoDB` `Git` `GitHub` `DSA`
 
 ---
 
@@ -295,14 +304,14 @@ Developing software projects across **data structures, algorithms, full-stack de
 
 <div align="center">
 
-| Area                    | Highlight                                                                        |
-| ----------------------- | -------------------------------------------------------------------------------- |
-| **Full Stack**          | Built applications using React, Node.js, Express and MongoDB                     |
-| **AI Applications**     | Integrated Gemini-powered functionality into an AI travel application            |
-| **Algorithms**          | Implemented Dijkstra's shortest-path algorithm and multiple core data structures |
-| **Systems**             | Developed file-based C applications with authentication and role management      |
-| **Hackathons**          | Built team-based technical projects using modern web technologies                |
-| **Product Development** | Focused on turning technical concepts into usable applications                   |
+| Recognition                    | Details                                                                    |
+| ------------------------------ | -------------------------------------------------------------------------- |
+| **AI Application Development** | Built Orbit, an AI-powered travel companion using Gemini                   |
+| **Full Stack Development**     | Built SpeakEase using React, Node.js, Express and MongoDB                  |
+| **Algorithm Engineering**      | Implemented Dijkstra-based campus route optimization                       |
+| **Systems Programming**        | Built C-based student management and playlist systems                      |
+| **Data Structures**            | Applied hash tables, linked lists, queues and graphs to practical projects |
+| **Hackathon Development**      | Developed team-oriented software using modern TypeScript tooling           |
 
 </div>
 
@@ -313,11 +322,11 @@ Developing software projects across **data structures, algorithms, full-stack de
 <div align="center">
 
 <a href="https://github.com/deepakchintapalli">
-<img src="https://img.shields.io/badge/GitHub-Deepak%20Chintapalli-0D1117?style=for-the-badge&logo=github&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/GITHUB-Deepak%20Chintapalli-020403?style=for-the-badge&logo=github&logoColor=22C55E"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepak-chintapalli-6212a333b/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A7B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Deepak%20Chintapalli-0A7B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -328,7 +337,7 @@ Developing software projects across **data structures, algorithms, full-stack de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakchintapalli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=22C55E&icon_color=16A34A&text_color=BBF7D0&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepakchintapalli&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=22C55E&icon_color=16A34A&text_color=BBF7D0&bg_color=0D1117" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakchintapalli&layout=compact&hide_border=true&langs_count=8&title_color=22C55E&text_color=BBF7D0&bg_color=0D1117" height="180"/>
 
@@ -354,7 +363,7 @@ Developing software projects across **data structures, algorithms, full-stack de
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=86EFAC&line=22C55E&point=BBF7D0&area=true&hide_border=true&custom_title=Deepak%20Chintapalli's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakchintapalli&bg_color=0D1117&color=86EFAC&line=22C55E&point=BBF7D0&area=true&hide_border=true&custom_title=Deepak%20Chintapalli%27s%20Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -364,7 +373,20 @@ Developing software projects across **data structures, algorithms, full-stack de
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/deepakchintapalli/deepakchintapalli/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -409,11 +431,11 @@ Open To:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/deepak-chintapalli-6212a333b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A7B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A7B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/deepakchintapalli">
-<img src="https://img.shields.io/badge/GitHub-Follow-052E16?style=for-the-badge&logo=github&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-052E16?style=for-the-badge&logo=github&logoColor=22C55E"/>
 </a>
 
 </div>
@@ -426,6 +448,6 @@ Open To:
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:166534,100:020403&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,45:052E16,75:166534,100:22C55E&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
